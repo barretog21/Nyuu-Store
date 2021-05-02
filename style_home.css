@@ -1,0 +1,55 @@
+body {
+	
+	background-color: black;
+}
+ 
+#menu ul {
+	list-style: none;
+	color: white;
+	float: right;
+	margin-top: -90px;
+	margin-right: 10px; 
+}
+#menu li{
+	margin: 3px;
+	display: inline-block;
+	color: black;
+	font-size: 20px;
+}
+#menu a{
+	background-color: white;
+	border: 2px solid white;
+}
+.paragrafo {
+	color: white;
+	text-align: center;
+	font-size: 3em;
+	font-family: fantasy;
+	margin-top: 100px;
+}
+.para2 {
+	font-size: 2em;
+	font-family: fantasy;
+	color: white;
+	text-align: center;
+}
+#contato ul {
+	list-style: none;
+	text-align: center;
+	margin-top: 100px; 
+}
+#contato li {
+	margin: 70px;
+	display: inline-block;
+}
+#contato h1{
+	font-size: 3em;
+	font-family: fantasy;
+	text-align: center;
+	color: white;
+}
+
+
+
+	
+    
